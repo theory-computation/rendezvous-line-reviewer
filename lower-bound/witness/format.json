@@ -1,0 +1,11 @@
+{
+  "physical_rows": 8192,
+  "stored_rows": 4192,
+  "columns": 4192,
+  "dyadic_denominator_exponent": 46,
+  "integer_dtype": "little-endian signed int64",
+  "packed_order": "row0 col0; row1 cols0..1; ...; row4191 cols0..4191",
+  "unwritten_entries": "zero",
+  "partition": "each class repeats its stored row; empty indices have zero rows",
+  "packed_entries": 8788528
+}
